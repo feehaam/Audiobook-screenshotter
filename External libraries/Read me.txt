@@ -1,0 +1,2 @@
+add all of these jars into external jars/classpath in eclipse
+and put the chromedriver.exe file inside C:\Program Files\Chromedriver\chromediver.exe

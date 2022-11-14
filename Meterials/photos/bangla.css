@@ -1,0 +1,132 @@
+
+@font-face {
+  font-family: 'SolaimanLipi';
+  src: url('font/SolaimanLipi.eot');
+  src: url('font/SolaimanLipi.woff') format('woff'),
+       url('font/SolaimanLipi.ttf') format('truetype'),
+       url('font/SolaimanLipi.svg#SolaimanLipiNormal') format('svg'),
+       url('font/SolaimanLipi.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdorshoLipi';
+  src: url('font/AdorshoLipi.eot');
+  src: url('font/AdorshoLipi.woff') format('woff'),
+       url('font/AdorshoLipi.ttf') format('truetype'),
+       url('font/AdorshoLipi.svg#AdorshoLipi') format('svg'),
+       url('font/AdorshoLipi.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CharuChandan3D';
+  src: url('font/CharuChandan3D.eot');
+  src: url('font/CharuChandan3D.woff') format('woff'),
+       url('font/CharuChandan3D.ttf') format('truetype'),
+       url('font/CharuChandan3D.svg#CharuChandan3DUnicode') format('svg'),
+       url('font/CharuChandan3D.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CharukolaUltraLight';
+  src: url('font/CharukolaUltraLight.eot');
+  src: url('font/CharukolaUltraLight.woff') format('woff'),
+       url('font/CharukolaUltraLight.ttf') format('truetype'),
+       url('font/CharukolaUltraLight.eot?#iefix') format('embedded-opentype'),
+       url('font/CharukolaUltraLight.svg#CharukolaUltraLightUnicode') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mukti';
+  src: url('font/Mukti.eot');
+  src: url('font/Mukti.woff') format('woff'),
+       url('font/Mukti.ttf') format('truetype'),
+       url('font/Mukti.svg#Mukti') format('svg'),
+       url('font/Mukti.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SiyamRupali';
+  src: url('font/SiyamRupali.eot');
+  src: url('font/SiyamRupali.woff') format('woff'),
+       url('font/SiyamRupali.ttf') format('truetype'),
+       url('font/SiyamRupali.svg#SiyamRupali') format('svg'),
+       url('font/SiyamRupali.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Kalpurush';
+  src: url('font/Kalpurush.eot');
+  src: url('font/Kalpurush.woff') format('woff'),
+       url('font/Kalpurush.ttf') format('truetype'),
+       url('font/Kalpurush.svg#Kalpurush') format('svg'),
+       url('font/Kalpurush.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EkusheyLohit';
+  src: url('font/EkusheyLohit.eot');
+  src: url('font/EkusheyLohit.woff') format('woff'),
+       url('font/EkusheyLohit.ttf') format('truetype'),
+       url('font/EkusheyLohit.svg#Ekushey_Lohit') format('svg'),
+       url('font/EkusheyLohit.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BenSen';
+  src: url('font/BenSen.eot');
+  src: url('font/BenSen.woff') format('woff'),
+       url('font/BenSen.ttf') format('truetype'),
+       url('font/BenSen.svg#BenSen') format('svg'),
+       url('font/BenSen.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bangla';
+  src: url('font/Bangla.eot');
+  src: url('font/Bangla.woff') format('woff'),
+       url('font/Bangla.ttf') format('truetype'),
+       url('font/Bangla.svg#Bangla') format('svg'),
+       url('font/Bangla.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AponaLohit';
+  src: url('font/AponaLohit.eot');
+  src: url('font/AponaLohit.woff') format('woff'),
+       url('font/AponaLohit.ttf') format('truetype'),
+       url('font/AponaLohit.svg#AponaLohit') format('svg'),
+       url('font/AponaLohit.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CharuChandanHardStroke';
+  src: url('font/CharuChandanHardStroke.eot');
+  src: url('font/CharuChandanHardStroke.woff') format('woff'),
+       url('font/CharuChandanHardStroke.ttf') format('truetype'),
+       url('font/CharuChandanHardStroke.eot?#iefix') format('embedded-opentype'),
+       url('font/CharuChandanHardStroke.svg#CharuChandanHardStrokeUnicode') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
